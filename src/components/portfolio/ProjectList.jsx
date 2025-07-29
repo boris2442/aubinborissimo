@@ -124,8 +124,8 @@
 
 import React, { Component } from 'react';
 import Project from './project';
-import { portfolioData } from '../data/PortfolioData';
-
+import { portfolioData } from '../data/portfolioData';
+// ../data/PortfolioData
 class ProjectList extends Component {
   state = {
     projects: portfolioData
