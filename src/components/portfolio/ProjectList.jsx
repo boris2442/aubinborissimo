@@ -123,7 +123,7 @@
 
 
 import React, { Component } from 'react';
-import Project from './project';
+import Project from './Project';
 import { portfolioData } from '../data/portfolioData';
 // ../data/PortfolioData
 class ProjectList extends Component {
