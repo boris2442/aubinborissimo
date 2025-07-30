@@ -27,7 +27,7 @@ const Home = () => {
                         {/* <h1>Boris code</h1> */}
                         <h2>Developpeur web</h2><br />
                         <div className="pdf">
-                            <a href="./media/CV2_complet_boris.pdf" download target='_blank '>Telecharger cv</a>
+                            <a href="./media/CV_Simo_Boris_Aubin.pdf" download target='_blank '>Telecharger cv</a>
                         </div>
                     </div>
                 </div>
