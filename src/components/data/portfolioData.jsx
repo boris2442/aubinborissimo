@@ -189,7 +189,7 @@ Consultation des créneaux disponibles selon la date, l’heure ou la destinatio
         name: 'Disgramme de classe',
         languages: ['Power AMC', 'Draw.io'],
         languagesIcons: ['fas fa-tools', 'fas fa-project-diagram'],
-        source: 'https://github.com/boris2442/stage_project_dqp.git',
+        source: 'https://campuspay.evendeco.com/',
         info: `Le diagramme de classe de l’application CAMPUSPAY a été conçu avec Power AMC et Draw.io, en suivant les principes de la modélisation orientée objet. Il structure de manière claire les différentes entités du système, leurs attributs, méthodes, et les relations entre elles.
 
 `,
