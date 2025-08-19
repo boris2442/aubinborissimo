@@ -177,7 +177,7 @@ Consultation des créneaux disponibles selon la date, l’heure ou la destinatio
         name: 'CAMPUSPAY',
         languages: ['Laravel', 'css', 'Alpine.JS', 'JavaScript'],
         languagesIcons: ['fa-brands fa-laravel', 'fab fa-css3-alt', 'fa-solid fa-mountain', 'fab fa-js'],
-        source: 'https://github.com/boris2442/stage_project_dqp.git',
+        source: 'https://campuspay.evendeco.com/',
         info: `CAMPUSPAY est une application web de gestion centralisée des frais universitaires, conçue pour automatiser les paiements, améliorer le suivi financier et simplifier les interactions entre les étudiants, les comptables et l’administration universitaire.
 
 `,

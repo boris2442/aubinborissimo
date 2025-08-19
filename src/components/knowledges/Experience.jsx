@@ -16,8 +16,8 @@ const Experience = () => {
 
                     Basée sur des standards élevés de qualité et de durabilité, Life adopte des procédés modernes de traitement d’eau pour garantir la pureté, le goût et la sécurité sanitaire de ses produits. Elle ambitionne de devenir une référence dans le domaine de l’eau embouteillée en Afrique, tout en intégrant des pratiques respectueuses de l’environnement et en favorisant le développement local.</p>
             </div>
-              <div className="exp-3">
-                <h4 style={{color:'#10182A'}}>Développeur Full-Stack && Chef de projet CAMPUSPAY</h4>
+            <div className="exp-3">
+                <h4 style={{ color: '#10182A' }}>Développeur Full-Stack && Chef de projet CAMPUSPAY</h4>
                 <h5>2024 - 2025</h5>
                 <p>CampusPay est une plateforme numérique conçue pour simplifier et sécuriser la gestion des paiements académiques dans les établissements scolaires et universitaires.
                     Elle permet aux étudiants, parents et institutions de réaliser et de suivre les transactions financières de manière rapide, transparente et fiable.
